@@ -1,0 +1,1 @@
+isTypescriptAmazing should be of type boolean
