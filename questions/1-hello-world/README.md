@@ -1,0 +1,1 @@
+Greeting type should be a string
