@@ -1,0 +1,1 @@
+Don't leave out the case where `strs` is an empty string ''
