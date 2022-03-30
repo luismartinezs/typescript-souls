@@ -1,0 +1,1 @@
+Use loose equality check to remove both `null` and `undefined` from the type

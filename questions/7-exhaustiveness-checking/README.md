@@ -1,0 +1,1 @@
+How can we make sure the switch statement in the getArea function handles all possible shapes? I.e. if we added a new shape Triangle, and we don't have a switch statement for that case, we would like ts to error.
