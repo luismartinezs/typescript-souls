@@ -1,0 +1,1 @@
+Use generics to define types for the map function
